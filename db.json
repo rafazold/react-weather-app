@@ -1,0 +1,32 @@
+[
+  {
+    "day": 2,
+    "temperature": 31.6,
+    "icon": "1",
+    "description": "Sunny"
+  },
+  {
+    "day": 3,
+    "temperature": 29,
+    "icon": "6",
+    "description": "Partly cloudy"
+  },
+  {
+    "day": 4,
+    "temperature": 24.2,
+    "icon": "7",
+    "description": "Cloudy"
+  },
+  {
+    "day": 5,
+    "temperature": 27.8,
+    "icon": "14",
+    "description": "A bit cloudy"
+  },
+  {
+    "day": 6,
+    "temperature": 22.4,
+    "icon": "18",
+    "description": "Rainy"
+  }
+]
