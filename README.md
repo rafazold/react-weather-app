@@ -10,7 +10,7 @@ The result should look like:
 ### Instructions:
 1. Fork this repo to your account
 2. Clone it
-3. `cd react-gallery`
+3. `cd react-weather-app`
 4. `npm install`
 5. `npm start`
 
