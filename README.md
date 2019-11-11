@@ -4,7 +4,7 @@ In this exercise, you will use state with an API to make a weather app!
 
 The result should look like: 
 
-![Image of result](https://github.com/evyros/react-weather-app/tree/master/result.png)
+![Image of result](https://github.com/evyros/react-weather-app/raw/master/result.png)
 
 
 ### Instructions:
