@@ -25,7 +25,7 @@ class Forecast5Days extends Component {
                    return <div>
                        <Forecast1Day
                            day={weather.day}
-                           src={`/icons/${weather.icon}.png`}
+                           src={weather.icon}
                            temp={weather.temperature + '°'}
                            cond={weather.description}/>
                    </div>

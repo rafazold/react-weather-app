@@ -9,7 +9,7 @@ class Forecast1Day extends Component {
         return (
             <div className="weather-module">
                 <h3 className="weather-day">{weekDays[this.props.day]}</h3>
-                <img src={this.props.src} alt="weather" className="weather-icon" />
+                <img src={`/icons/${this.props.src}.png`} alt="weather" className="weather-icon" />
                 <div className="weather-details">
                     <span className="weather-temp">{this.props.temp}</span>
                     <span className="weather-cond">{this.props.cond}</span>
